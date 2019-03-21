@@ -42,3 +42,4 @@ sysinfo.txt
     trustExitCode = false
     cmd = '<path to UnityYAMLMerge>' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
     core.autocrlf input
+    git config --global core.autocrlf input
