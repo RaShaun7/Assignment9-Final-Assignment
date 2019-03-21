@@ -41,3 +41,4 @@ sysinfo.txt
     [mergetool "unityyamlmerge"]
     trustExitCode = false
     cmd = '<path to UnityYAMLMerge>' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
+    core.autocrlf input
