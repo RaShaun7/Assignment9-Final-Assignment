@@ -1,1 +1,42 @@
+Project link:
+  -https://github.com/RaShaun7/Assignment9-Final-Assignment
+Project video:
+  -https://youtu.be/bQ3kcN_soRA
+
+What was completed:
+  -Player can walk, run, jump, control freefall.
+  -camera can be third or first person
+  -player throws sword at camera direction
+  -player can pull themself toward the sword
+  -player can stand on sword
+  -sword stands upright if throw at ground
+  -sword returns after brief period of flight if not interacted with
+  -sword acts only as a temporary platform in air but permanent in ground
+  -sword can only be throw in the air twice
+ 
+What was not completed:
+  -Had planned to implement a few enemies, but the real focus was on the players ability to be very mobile yet restricted.
+  The enemies were going to require some easy coding compared to the player, so I decided to rather commit to 1 "polished" game asset     rather than multple unfinished/simply coded ones.
+  
+  -flying dragon that circled around and shot at player current location
+  -maybe a dragon that shot homing missels
+  -enemies that walked around aimlessly, but upon seeing player would move toward them
+  -these enemies would also follo one another if they had seen eachother, like a train, and increaase in speed slightly to a cap.
+  -make the sword have hp so it would be reset if enemies hit it
+  -make player able to breathe fire to solidify platforms to stand on
+  -make enemy that had "magnetism" so it would pull your weapon away if thrown too close
+  -basic shockwave/groundpound attack enemies
+  -find nice sound/music/textures/materials
+  
+Any unexpected tasks that came up:
+  -Well currently github not letting me commit is a REAL problem.
+  -Didn't expect to spend nearly as long as I did working on character physics it was worth it though.
+  
+  
+  
+  
+  
+  
+  
+  
 
