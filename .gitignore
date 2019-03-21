@@ -41,5 +41,4 @@ sysinfo.txt
     [mergetool "unityyamlmerge"]
     trustExitCode = false
     cmd = '<path to UnityYAMLMerge>' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
-* text=auto
-* text eol=lf
+*.svg text eol=lf
