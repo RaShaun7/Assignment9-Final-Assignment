@@ -34,5 +34,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-*git config --global core.autocrlf input
+*core.autocrlf input
 
