@@ -2,6 +2,15 @@ Project link:
   -https://github.com/RaShaun7/Assignment9-Final-Assignment
 Project video:
   -https://youtu.be/bQ3kcN_soRA
+  -https://www.youtube.com/watch?v=vOOgafMOW2k this is showing that standing on the sword works, but I think that recording and playing    on my computer made it not work because it was too much for it to handle.
+  
+Controls:
+  WASD to move
+  SPACE to jump
+  T to go into first/third person
+  mouse(1) to thrwo sword
+  mouse(0) to get pulled to sword
+  4 to fix things if player gets stuck...hopefully
 
 What was completed:
   -Player can walk, run, jump, control freefall.
@@ -29,7 +38,7 @@ What was not completed:
   -find nice sound/music/textures/materials
   
 Any unexpected tasks that came up:
-  -Well currently github not letting me commit is a REAL problem.
+  -Well currently github not letting me commit is a REAL problem. Used the same gitignore as last time but doesnt work. Still cant          figure it out, seems adding a long list of gitattributes lowered the amount of warnings, but there are a couple still stopping me        from commiting. I've probably spent 4 hours researching this. 
   -Didn't expect to spend nearly as long as I did working on character physics it was worth it though.
   
   
